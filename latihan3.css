@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    text-align: justify;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background: #90a2a9;
+    background: url(bg\ biru.jpg);
+    background-size: cover;
+}
+
+.wrapper{
+    margin: 150px auto;
+    width: 70%;
+}
+
+img{
+    max-width: 320px;
+    float: left;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.text-box{
+    color: #ffffff;
+}
+
+.text-box h2{
+    font-size: 42px;
+}
+
+.text-box p{
+    font-size: 14px;
+}

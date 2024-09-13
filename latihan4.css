@@ -1,0 +1,31 @@
+.tbl1{
+    border-collapse: collapse;
+    color: #444;
+    width: 50%;
+    border: 1px solid #e6eaec;
+}
+
+.tbl1 tr th{
+    background: #70a3c4;
+    color: #fff;
+    font-weight: normal;
+}
+
+.tbl1 th td{
+    padding: 8px 20px;
+    text-align: center;
+}
+
+body{
+    background: url(bg\ rumput.jpg);
+    background-size: cover;
+}
+
+.tbl1 tr td{
+    text-align: center;
+}
+
+.tbl1 tr td{
+    background: #e6eaec;
+}
+
